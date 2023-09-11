@@ -12,5 +12,7 @@ A master repository to host everything I work on that is not confidential.
 
 - [n8n-python](https://github.com/bloodyburger/n8n-python) - Docker image of n8n with Python support for running python scripts using Command node.
 
+- [grafana-export](https://github.com/bloodyburger/grafana-export.sh) - Script to export Grafana dashboards and folders.
+
 ### Helpful Links
 - [Generate docker-compose](https://github.com/Red5d/docker-autocompose)
