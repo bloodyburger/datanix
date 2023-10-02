@@ -14,5 +14,7 @@ A master repository to host everything I work on that is not confidential.
 
 - [grafana-export](./grafana-export.sh) - Script to export Grafana dashboards and folders.
 
+- [tuya](./utilities/tuya) - Script to export power data from Smart Switches using Tuya module.
+
 ### Helpful Links
 - [Generate docker-compose](https://github.com/Red5d/docker-autocompose)
