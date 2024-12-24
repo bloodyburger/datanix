@@ -4,41 +4,68 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="flXZZ3zYYz5a7-yL_w6W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flXZZ3zYYz5a7-yL_w6W-1" target="flXZZ3zYYz5a7-yL_w6W-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="flXZZ3zYYz5a7-yL_w6W-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="flXZZ3zYYz5a7-yL_w6W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flXZZ3zYYz5a7-yL_w6W-1" target="flXZZ3zYYz5a7-yL_w6W-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="flXZZ3zYYz5a7-yL_w6W-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="flXZZ3zYYz5a7-yL_w6W-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flXZZ3zYYz5a7-yL_w6W-1" target="flXZZ3zYYz5a7-yL_w6W-10">
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="flXZZ3zYYz5a7-yL_w6W-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flXZZ3zYYz5a7-yL_w6W-1" target="flXZZ3zYYz5a7-yL_w6W-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-1" value="User" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="20" y="130" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flXZZ3zYYz5a7-yL_w6W-2" target="flXZZ3zYYz5a7-yL_w6W-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-2" value="Lambda - Connect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-3" value="Lambda - Stream" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-5" value="Connection request - one time, contains all request parameters" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="70" width="360" height="30" as="geometry" />
+          <mxGeometry x="290" y="80" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-7" value="Streaming messages -&amp;nbsp;&lt;div&gt;Request has only ConnectionID&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="200" width="190" height="40" as="geometry" />
+          <mxGeometry x="395" y="210" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-8" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="100" width="30" height="30" as="geometry" />
+          <mxGeometry x="365" y="110" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-9" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="160" width="30" height="30" as="geometry" />
+          <mxGeometry x="365" y="170" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-10" value="Lambda - Disconnect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="flXZZ3zYYz5a7-yL_w6W-12" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="248" width="30" height="30" as="geometry" />
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-12" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="258" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flXZZ3zYYz5a7-yL_w6W-13" target="flXZZ3zYYz5a7-yL_w6W-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-13" value="Redis - Store Connection ID and Params" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-16" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="168" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-17" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-19" value="WSS URL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="128" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
