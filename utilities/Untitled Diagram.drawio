@@ -26,6 +26,9 @@
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-2" value="Lambda - Connect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="110" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flXZZ3zYYz5a7-yL_w6W-3" target="flXZZ3zYYz5a7-yL_w6W-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-3" value="Lambda - Stream" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="120" height="40" as="geometry" />
         </mxCell>
@@ -44,7 +47,7 @@
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-10" value="Lambda - Disconnect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="flXZZ3zYYz5a7-yL_w6W-12" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-12" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="375" y="258" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flXZZ3zYYz5a7-yL_w6W-13" target="flXZZ3zYYz5a7-yL_w6W-3">
@@ -67,6 +70,15 @@
         </mxCell>
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-20" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="108" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-22" value="Dappier API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="228" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-23" value="MongoDB and Logging" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="258" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-25" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="208" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
