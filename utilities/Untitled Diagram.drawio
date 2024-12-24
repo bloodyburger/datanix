@@ -80,6 +80,18 @@
         <mxCell id="flXZZ3zYYz5a7-yL_w6W-25" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="605" y="208" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.436;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="flXZZ3zYYz5a7-yL_w6W-2" target="flXZZ3zYYz5a7-yL_w6W-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="130" />
+              <mxPoint x="590" y="180" />
+              <mxPoint x="722" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flXZZ3zYYz5a7-yL_w6W-27" value="2.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="158" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
